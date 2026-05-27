@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Build
+dist/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Playwright
+.playwright-mcp/
+
+# Misc
+*.log
+${local_app_data}*
+
+# Local binary
+allianz-claude-code-helper-darwin-arm64
